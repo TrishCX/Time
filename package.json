@@ -1,0 +1,65 @@
+{
+  "name": "@myno_21/time",
+  "version": "1.0.0",
+  "description": "Beginner friendly to use & the simplest way of formatting dates, making timestamps and many more",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/test.js",
+    "watch": "tsc --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "browser",
+    "time",
+    "date",
+    "unix",
+    "milliseconds-format",
+    "get-milliseconds",
+    "timer",
+    "current-time",
+    "formattedTime",
+    "reminder",
+    "formatter",
+    "timezone",
+    "timestamps",
+    "easy-timestamp",
+    "percentage",
+    "number_format",
+    "percentage_format",
+    "epoch-time",
+    "npm-time",
+    "section",
+    "secondstoduration",
+    "formatdseconds",
+    "duration",
+    "format-number",
+    "nodejs_formatter",
+    "node timer",
+    "javascript",
+    "npmjs",
+    "seconds",
+    "milliseconds",
+    "time-format",
+    "date-format",
+    "duration",
+    "convertor",
+    "javascript",
+    "time-from-now",
+    "from-now"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "tiny-typed-emitter": "^2.1.0"
+  }
+}
