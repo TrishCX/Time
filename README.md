@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/1070412686791290910/1094605685335019693/Clock_PP-fix.gif" width="200" alt="accessibility text">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1070412686791290910/1094642953609289889/1681053601497.png" width="400" alt="accessibility text">
+  <img src="https://cdn.discordapp.com/attachments/1070412686791290910/1094653079703523338/1681056017260.png" width="400" alt="accessibility text">
 </p>
 <p align="center">
 <a href="https://github.com/TrishCX/Pinterest-Scraper" target="_blank">
